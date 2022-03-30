@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anais.delavier@mmibordeaux.com
+	name = anais delavier
